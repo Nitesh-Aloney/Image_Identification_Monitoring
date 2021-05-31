@@ -129,9 +129,9 @@ dmypy.json
 .pyre/
 
 # Ignore the personal data of the user
-Data/
-Unidentified/
-Trainer/
 !Data/.sample
 !Unidentified/.sample
 !Trainer/.sample
+Data/**/
+Unidentified/**/
+Trainer/**/
