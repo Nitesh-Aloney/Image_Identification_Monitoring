@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Ignore the personal data of the user
+Data/*
+Unidentified/*
+Documentation/*
+Trainer/*
