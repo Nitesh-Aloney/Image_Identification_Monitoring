@@ -129,7 +129,6 @@ dmypy.json
 .pyre/
 
 # Ignore the personal data of the user
-Data/*
-Unidentified/*
-Documentation/*
-Trainer/*
+Data/
+Unidentified/
+Trainer/
