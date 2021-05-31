@@ -132,3 +132,6 @@ dmypy.json
 Data/
 Unidentified/
 Trainer/
+!Data/.sample
+!Unidentified/.sample
+!Trainer/.sample
